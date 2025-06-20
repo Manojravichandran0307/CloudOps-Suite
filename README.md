@@ -23,6 +23,11 @@ This setup is ideal for detecting low-disk-space conditions on critical servers 
 * CloudWatch Alarm	
 * SNS
 
+**Architecture**
+
+![CloudOps toolkit drawio](https://github.com/user-attachments/assets/3ad586b9-7c3c-4e23-a859-e42518de8cca)
+
+
 **Setup Guide**  
 **1. Launch EC2 Instance**
 * Type: Amazon Linux 2 (t2.micro)
